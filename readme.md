@@ -22,21 +22,21 @@ Enjoy!
 ## Session 1: SOLID and Clean Code
 
 - [ ] Watch [Core Design Principles for Software Developers](https://www.youtube.com/watch?v=llGgO74uXMI)
-- [ ] Read the [SOLID principles](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod)
-  - [ ] [SRP: Single Responsibility Principle](https://docs.google.com/open?id=0ByOwmqah_nuGNHEtcU5OekdDMkk)
-  - [ ] [OCP: Open- [ ]Closed Principle](http://docs.google.com/a/cleancoder.com/viewer?a=v&pid=explorer&chrome=true&srcid=0BwhCYaYDn8EgN2M5MTkwM2EtNWFkZC00ZTI3LWFjZTUtNTFhZGZiYmUzODc1&hl=en)
-  - [ ] [LSP: Liskov Substitution Principle](http://docs.google.com/a/cleancoder.com/viewer?a=v&pid=explorer&chrome=true&srcid=0BwhCYaYDn8EgNzAzZjA5ZmItNjU3NS00MzQ5LTkwYjMtMDJhNDU5ZTM0MTlh&hl=en)
-  - [ ] [ISP: Interface Segregation Principle](http://docs.google.com/a/cleancoder.com/viewer?a=v&pid=explorer&chrome=true&srcid=0BwhCYaYDn8EgOTViYjJhYzMtMzYxMC00MzFjLWJjMzYtOGJiMDc5N2JkYmJi&hl=en)
-  - [ ] [DIP: Dependency Inversion Principle](http://docs.google.com/a/cleancoder.com/viewer?a=v&pid=explorer&chrome=true&srcid=0BwhCYaYDn8EgMjdlMWIzNGUtZTQ0NC00ZjQ5LTkwYzQtZjRhMDRlNTQ3ZGMz&hl=en)
-- [ ] Exercise: Look at the [Racing Car Katas](https://github.com/emilybache/Racing- [ ]Car- [ ]Katas)
-  - [ ] Try to find where the SOLID principles are violated
-- [ ] Read the [Clean Code](http://www.amazon.com/Clean- [ ]Code- [ ]Handbook- [ ]Software- [ ]Craftsmanship/dp/0132350882)
-  - [ ] Chapter 1: Clean Code
-  - [ ] Chapter 2: Meaningful Names
-  - [ ] Chapter 3: Functions
-  - [ ] Chapter 6: Objects and Data Structures
-  - [ ] Chapter 7: Error Handling
-  - [ ] Chapter 10: Classes
+- [x] Read the [SOLID principles](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod)
+  - [x] [SRP: Single Responsibility Principle](https://docs.google.com/open?id=0ByOwmqah_nuGNHEtcU5OekdDMkk)
+  - [x] [OCP: Open- [ ]Closed Principle](http://docs.google.com/a/cleancoder.com/viewer?a=v&pid=explorer&chrome=true&srcid=0BwhCYaYDn8EgN2M5MTkwM2EtNWFkZC00ZTI3LWFjZTUtNTFhZGZiYmUzODc1&hl=en)
+  - [x] [LSP: Liskov Substitution Principle](http://docs.google.com/a/cleancoder.com/viewer?a=v&pid=explorer&chrome=true&srcid=0BwhCYaYDn8EgNzAzZjA5ZmItNjU3NS00MzQ5LTkwYjMtMDJhNDU5ZTM0MTlh&hl=en)
+  - [x] [ISP: Interface Segregation Principle](http://docs.google.com/a/cleancoder.com/viewer?a=v&pid=explorer&chrome=true&srcid=0BwhCYaYDn8EgOTViYjJhYzMtMzYxMC00MzFjLWJjMzYtOGJiMDc5N2JkYmJi&hl=en)
+  - [x] [DIP: Dependency Inversion Principle](http://docs.google.com/a/cleancoder.com/viewer?a=v&pid=explorer&chrome=true&srcid=0BwhCYaYDn8EgMjdlMWIzNGUtZTQ0NC00ZjQ5LTkwYzQtZjRhMDRlNTQ3ZGMz&hl=en)
+- [x] Exercise: Look at the [Racing Car Katas](https://github.com/emilybache/Racing- [ ]Car- [ ]Katas)
+  - [x] Try to find where the SOLID principles are violated
+- [x] Read the [Clean Code](http://www.amazon.com/Clean- [ ]Code- [ ]Handbook- [ ]Software- [ ]Craftsmanship/dp/0132350882)
+  - [x] Chapter 1: Clean Code
+  - [x] Chapter 2: Meaningful Names
+  - [x] Chapter 3: Functions
+  - [x] Chapter 6: Objects and Data Structures
+  - [x] Chapter 7: Error Handling
+  - [x] Chapter 10: Classes
 - [ ] Read [The Pragmatic Programmer](https://pragprog.com/book/tpp/the- [ ]pragmatic- [ ]programmer)
   - [ ] Chapter 2: A Pragmatic Approach
   - [ ] Chapter 5: Bend or Break
@@ -46,8 +46,8 @@ Enjoy!
 
 ## Session 2: Test- [ ]Driven Development
 
-- [ ] Read [TDD by example](http://www.amazon.com/Test- [ ]Driven- [ ]Development- [ ]By- [ ]Example/dp/0321146530)
-  - [ ] Study the `Part I: The Money Example`
+- [x] Read [TDD by example](http://www.amazon.com/Test- [ ]Driven- [ ]Development- [ ]By- [ ]Example/dp/0321146530)
+  - [x] Study the `Part I: The Money Example`
   - [ ] Exercise: Try to repeat it with a programming language at your choice.
 - [ ] Read [Growing Object- [ ]Oriented Software, guided by tests](https://www.amazon.com/Growing- [ ]Object- [ ]Oriented- [ ]Software- [ ]Guided- [ ]Tests/dp/0321503627)
   - [ ] Chapter 1: What is the point of Test- [ ]Driven Development?
@@ -55,24 +55,24 @@ Enjoy!
   - [ ] Chapter 4: Kick- [ ]Starting the Test- [ ]Driven Cycle
   - [ ] Chapter 5: Maintaining the Test- [ ]Driven Cycle
 - [ ] Unit Tests
-  - [ ] Read Chapter 9: Unit Tests of [Clean Code](http://www.amazon.com/Clean- [ ]Code- [ ]Handbook- [ ]Software- [ ]Craftsmanship/dp/0132350882)
+  - [x] Read Chapter 9: Unit Tests of [Clean Code](http://www.amazon.com/Clean- [ ]Code- [ ]Handbook- [ ]Software- [ ]Craftsmanship/dp/0132350882)
   - [ ] Watch [The Clean Code Talks - [ ] Unit Testing](https://www.youtube.com/watch?v=wEhu57pih5w)
   - [ ] Read [Effective Unit Testing](https://www.amazon.com/Effective- [ ]Unit- [ ]Testing- [ ]guide- [ ]developers/dp/1935182579)
     - [ ] Part 1: Foundations
     - [ ] Part 2: Catalog
-- [ ] Read [desirable properties of tests](https://medium.com/@kentbeck_7670/test- [ ]desiderata- [ ]94150638a4b3)
+- [x] Read [desirable properties of tests](https://medium.com/@kentbeck_7670/test- [ ]desiderata- [ ]94150638a4b3)
   - [ ] Watch [the video playlist](https://www.youtube.com/playlist?list=PLlmVY7qtgT_lkbrk9iZNizp978mVzpBKl)
 
 ## Session 3: Refactoring
 
-- [ ] Watch [Workflows of Refactoring](https://www.youtube.com/watch?v=vqEg37e4Mkw)
-- [ ] Read [Refactoring: Improving the design of existing code](http://www.amazon.com/Refactoring- [ ]Improving- [ ]Design- [ ]Existing- [ ]Code/dp/0201485672)
-  - [ ] Chapter 1: Refactoring, a First Example
+- [x] Watch [Workflows of Refactoring](https://www.youtube.com/watch?v=vqEg37e4Mkw)
+- [x] Read [Refactoring: Improving the design of existing code](http://www.amazon.com/Refactoring- [ ]Improving- [ ]Design- [ ]Existing- [ ]Code/dp/0201485672)
+  - [x] Chapter 1: Refactoring, a First Example
     - [ ] Try to repeat the [example code](https://github.com/joebew42/refactoring- [ ]day/tree/master/movie- [ ]rental/java)
-  - [ ] Chapter 2: Principles in Refactoring
-  - [ ] Chapter 3: Bad Smells in Code
-- [ ] Exercise: Try to find and refactor the code smells in these Code Katas:
-  - [ ] [Tennis Refactoring Kata](https://github.com/emilybache/Tennis- [ ]Refactoring- [ ]Kata)
+  - [x] Chapter 2: Principles in Refactoring
+  - [x] Chapter 3: Bad Smells in Code
+- [x] Exercise: Try to find and refactor the code smells in these Code Katas:
+  - [x] [Tennis Refactoring Kata](https://github.com/emilybache/Tennis- [ ]Refactoring- [ ]Kata)
   - [ ] [Gilded Rose Kata](https://github.com/joebew42/GildedRose)
   - [ ] What Code Smells you have found?
     - [ ] What steps you followed to remove them?
@@ -153,18 +153,18 @@ If you are looking for more Code Katas to learn and practice with your new progr
 
 ## Session 7: The Clean Architecture
 
-- [ ] Read [Hexagonal Architecture](https://web.archive.org/web/20090122225311/http://alistair.cockburn.us/Hexagonal+architecture)
-- [ ] Read [The Onion Architecture](https://jeffreypalermo.com/2008/07/the- [ ]onion- [ ]architecture- [ ]part- [ ]1/)
-- [ ] Read [The Clean Architecture](https://blog.cleancoder.com/uncle- [ ]bob/2012/08/13/the- [ ]clean- [ ]architecture.html)
-- [ ] Watch [Clean Architecture and Design](https://www.youtube.com/watch?v=2dKZ- [ ]dWaCiU)
-- [ ] Watch [Lean Agile Scotland "Crafted Design"](https://vimeo.com/107963074)
+- [x] Read [Hexagonal Architecture](https://web.archive.org/web/20090122225311/http://alistair.cockburn.us/Hexagonal+architecture)
+- [x] Read [The Onion Architecture](https://jeffreypalermo.com/2008/07/the- [ ]onion- [ ]architecture- [ ]part- [ ]1/)
+- [x] Read [The Clean Architecture](https://blog.cleancoder.com/uncle- [ ]bob/2012/08/13/the- [ ]clean- [ ]architecture.html)
+- [x] Watch [Clean Architecture and Design](https://www.youtube.com/watch?v=2dKZ- [ ]dWaCiU)
+- [x] Watch [Lean Agile Scotland "Crafted Design"](https://vimeo.com/107963074)
 - [ ] Watch [Jax London 2014 "Crafted Design"](https://vimeo.com/128596005)
-- [ ] Watch [Spring I/O 2019 Clean Architecture](https://www.youtube.com/watch?v=cPH5AiqLQTo)
+- [x] Watch [Spring I/O 2019 Clean Architecture](https://www.youtube.com/watch?v=cPH5AiqLQTo)
 - [ ] Exercises:
   - [ ] Try the [Social Networking Kata](https://github.com/sandromancuso/social_networking_kata)
   - [ ] Try the [Greeting Service Kata](https://github.com/joebew42/greeting- [ ]service- [ ]kata)
 - [ ] Once you have done one of the previous Code Kata, try to build and deploy your application
-  - [ ] Read [The Twelve- [ ]Factor App](http://12factor.net/)
+  - [x] Read [The Twelve- [ ]Factor App](http://12factor.net/)
   - [ ] Publish the code on a `GitHub` repository
   - [ ] Setup a CI environment (e.g. Travis/CircleCI/CodeShip)
   - [ ] Deploy your application automatically (e.g. Heroku)
