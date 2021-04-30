@@ -22,7 +22,7 @@ Enjoy!
 
 ## Session 1: SOLID and Clean Code
 
-- [ ] Watch [Core Design Principles for Software Developers](https://www.youtube.com/watch?v=llGgO74uXMI)
+- [x] Watch [Core Design Principles for Software Developers](https://www.youtube.com/watch?v=llGgO74uXMI)
 - [x] Read the [SOLID principles](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod)
 - [x] [SRP: Single Responsibility Principle](https://docs.google.com/open?id=0ByOwmqah_nuGNHEtcU5OekdDMkk)
 - [x] [OCP: Open-Closed Principle](http://docs.google.com/a/cleancoder.com/viewer?a=v&pid=explorer&chrome=true&srcid=0BwhCYaYDn8EgN2M5MTkwM2EtNWFkZC00ZTI3LWFjZTUtNTFhZGZiYmUzODc1&hl=en)
