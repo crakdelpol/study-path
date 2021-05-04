@@ -16,7 +16,7 @@ Enjoy!
 ## Getting Started
 
 - [x] Get familiar with [the Pomodoro Technique](http://pomodorotechnique.com/) (read the [paper](http://baomee.info/pdf/technique/1.pdf))
-- [ ] Read the [Manifesto for Agile Software Development](http://www.agilemanifesto.org/)
+- [x] Read the [Manifesto for Agile Software Development](https://agilemanifesto.org)
 - [ ] Read the [Principles behind the Agile Manifesto](http://www.agilemanifesto.org/principles.html)
 - [ ] Read the [Manifesto for Software Craftsmanship](http://manifesto.softwarecraftsmanship.org/)
 
