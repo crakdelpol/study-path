@@ -175,14 +175,14 @@ If you are looking for more Code Katas to learn and practice with your new progr
 ## Session 8: Domain-Driven Design
 
 - [ ] Watch [Tackling Complexity in the Heart of Software](https://www.youtube.com/watch?v=dnUFEg68ESM)
-- [ ] Read [Domain-Driven Design Quickly](https://www.infoq.com/minibooks/domain-driven-design-quickly)
-- [ ] Chapter 1: What Is Domain-Driven Design
-- [ ] Chapter 2: The Ubiquitous Language
-- [ ] Chapter 3: Model-Driven Design
-- [ ] Chapter 4: Refactoring Toward Deeper Insight
-- [ ] Chapter 5: Preserving Model Integrity
+- [x] Read [Domain-Driven Design Quickly](https://www.infoq.com/minibooks/domain-driven-design-quickly)
+- [x] Chapter 1: What Is Domain-Driven Design
+- [x] Chapter 2: The Ubiquitous Language
+- [x] Chapter 3: Model-Driven Design
+- [x] Chapter 4: Refactoring Toward Deeper Insight
+- [x] Chapter 5: Preserving Model Integrity
 - [ ] Read [DDD: Putting the Model to Work](https://www.infoq.com/presentations/model-to-work-evans)
-- [ ] Read [How to write a Repository](http://philcalcado.com/2010/12/23/how_to_write_a_repository.html)
+- [x] Read [How to write a Repository](http://philcalcado.com/2010/12/23/how_to_write_a_repository.html)
 - [ ] Watch [DDD and Microservices: At last, some boundaries!](https://vimeo.com/125769142)
 - [ ] Recommended readings:
 - [ ] [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215)
