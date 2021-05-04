@@ -69,7 +69,7 @@ Enjoy!
 - [x] Watch [Workflows of Refactoring](https://www.youtube.com/watch?v=vqEg37e4Mkw)
 - [x] Read [Refactoring: Improving the design of existing code](http://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672)
 - [x] Chapter 1: Refactoring, a First Example
-- [ ] Try to repeat the [example code](https://github.com/joebew42/refactoring-day/tree/master/movie-rental/java)
+- [x] Try to repeat the [example code](https://github.com/joebew42/refactoring-day/tree/master/movie-rental/java)
 - [x] Chapter 2: Principles in Refactoring
 - [x] Chapter 3: Bad Smells in Code
 - [x] Exercise: Try to find and refactor the code smells in these Code Katas:
