@@ -38,7 +38,7 @@ Enjoy!
   - [x] Chapter 6: Objects and Data Structures
   - [x] Chapter 7: Error Handling
   - [x] Chapter 10: Classes
-- [ ] Read [The Pragmatic Programmer](https://pragprog.com/book/tpp/the-pragmatic-programmer)
+- [ ] Read [The Pragmatic Programmer](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/)
   - [ ] Chapter 2: A Pragmatic Approach
   - [ ] Chapter 5: Bend or Break
   - [ ] Chapter 6: While You Are Coding
