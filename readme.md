@@ -52,7 +52,7 @@ Enjoy!
   - [ ] Exercise: Try to repeat it with a programming language at your choice.
 - [ ] Read [Growing Object-Oriented Software, guided by tests](https://www.amazon.com/Growing-Object-Oriented-Software-Guided-Tests/dp/0321503627)
   - [x] Chapter 1: What is the point of Test-Driven Development?
-  - [ ] Chapter 2: Test-Driven Development with Objects
+  - [x] Chapter 2: Test-Driven Development with Objects
   - [ ] Chapter 4: Kick-Starting the Test-Driven Cycle
   - [ ] Chapter 5: Maintaining the Test-Driven Cycle
 - [ ] Unit Tests
