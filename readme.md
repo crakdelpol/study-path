@@ -53,7 +53,7 @@ Enjoy!
 - [ ] Read [Growing Object-Oriented Software, guided by tests](https://www.amazon.com/Growing-Object-Oriented-Software-Guided-Tests/dp/0321503627)
   - [x] Chapter 1: What is the point of Test-Driven Development?
   - [x] Chapter 2: Test-Driven Development with Objects
-  - [ ] Chapter 4: Kick-Starting the Test-Driven Cycle
+  - [x] Chapter 4: Kick-Starting the Test-Driven Cycle
   - [ ] Chapter 5: Maintaining the Test-Driven Cycle
 - [ ] Unit Tests
   - [x] Read Chapter 9: Unit Tests of [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
