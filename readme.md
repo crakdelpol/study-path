@@ -54,7 +54,7 @@ Enjoy!
   - [x] Chapter 1: What is the point of Test-Driven Development?
   - [x] Chapter 2: Test-Driven Development with Objects
   - [x] Chapter 4: Kick-Starting the Test-Driven Cycle
-  - [ ] Chapter 5: Maintaining the Test-Driven Cycle
+  - [x] Chapter 5: Maintaining the Test-Driven Cycle
 - [ ] Unit Tests
   - [x] Read Chapter 9: Unit Tests of [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
   - [ ] Watch [The Clean Code Talks - Unit Testing](https://www.youtube.com/watch?v=wEhu57pih5w)
