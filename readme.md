@@ -50,7 +50,7 @@ Enjoy!
 - [x] Read [TDD by example](http://www.amazon.com/Test-Driven-Development-By-Example/dp/0321146530)
   - [x] Study the `Part I: The Money Example`
   - [ ] Exercise: Try to repeat it with a programming language at your choice.
-- [ ] Read [Growing Object-Oriented Software, guided by tests](https://www.amazon.com/Growing-Object-Oriented-Software-Guided-Tests/dp/0321503627)
+- [x] Read [Growing Object-Oriented Software, guided by tests](https://www.amazon.com/Growing-Object-Oriented-Software-Guided-Tests/dp/0321503627)
   - [x] Chapter 1: What is the point of Test-Driven Development?
   - [x] Chapter 2: Test-Driven Development with Objects
   - [x] Chapter 4: Kick-Starting the Test-Driven Cycle
